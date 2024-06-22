@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@600&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bgblack {
+    background-color: black;
+}
+
+  
