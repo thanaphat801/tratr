@@ -5,7 +5,6 @@ import bson.binary
 import numpy as np
 from PIL import Image
 from img2vec_pytorch import Img2Vec
-from sklearn.metrics.pairwise import cosine_similarity
 import io
 import logging
 import base64
