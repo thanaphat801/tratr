@@ -153,6 +153,10 @@ def postform():
         return jsonify(message=f"Error occurred while storing form data: {e}"), 500
 
     return jsonify(message="Form data received and stored"), 200
-
+    
+@app.route('/')
+def index():
+    return 'Hello'
+    
 if __name__ == '__main__':
     app.run(debug=False)
