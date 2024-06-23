@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a930a71a.css",
+    "main.js": "/static/js/main.2bc44b58.js",
+    "static/js/453.32b7fd32.chunk.js": "/static/js/453.32b7fd32.chunk.js",
+    "static/media/วัดปรมัยยิกาวาส.jpg": "/static/media/วัดปรมัยยิกาวาส.577e36f7dfab51c1996a.jpg",
+    "static/media/bg_upload.jpg": "/static/media/bg_upload.4a18de5d87cd2c4bcab2.jpg",
+    "static/media/บูรณะวัด.png": "/static/media/บูรณะวัด.f409f6b42ee1c730d82d.png",
+    "static/media/วัดบางพัง.jpg": "/static/media/วัดบางพัง.4e638bc370f8d367d08a.jpg",
+    "static/media/วัดสนามเหนือ.JPEG": "/static/media/วัดสนามเหนือ.3aebed3284746ded9568.JPEG",
+    "static/media/วัดรามัญ.jpg": "/static/media/วัดรามัญ.9fdb8b3f7d6480946a03.jpg",
+    "static/media/temple2.jpg": "/static/media/temple2.62cae6cc8716cc54f28c.jpg",
+    "static/media/icon_torah.png": "/static/media/icon_torah.3d2a1479f94fb38dc9b6.png",
+    "index.html": "/index.html",
+    "main.a930a71a.css.map": "/static/css/main.a930a71a.css.map",
+    "main.2bc44b58.js.map": "/static/js/main.2bc44b58.js.map",
+    "453.32b7fd32.chunk.js.map": "/static/js/453.32b7fd32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a930a71a.css",
+    "static/js/main.2bc44b58.js"
+  ]
+}
